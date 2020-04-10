@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">implicit_intent</string>
+    <string name="edittext_url">edittext_url</string>
+    <string name="button_url">button_url</string>
+    <string name="edittext_location">edittext location</string>
+    <string name="openlocation">openlocation</string>
+    <string name="share_text">share text</string>
+    <string name="start">Share this text with :</string>
+    <string name="open_website">open website</string>
+</resources>
